@@ -1,1 +1,1 @@
-# solr-rad-predict
+# solar-radiation-predictor
